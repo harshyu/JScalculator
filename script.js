@@ -73,4 +73,4 @@ const inputOperator = (operator) => {
     currentNumber = '0'
 }
 
-const operators= document.querySelectorAll
+const operators= document.querySelectorAll 
